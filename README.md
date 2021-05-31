@@ -1,4 +1,4 @@
-### Use a Python library and the OpenWeatherMap API to collect weather data
+### Python library and the OpenWeatherMap API to collect weather data
 
 * Create scatterplots of weather data from world cities
 
